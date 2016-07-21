@@ -161,3 +161,4 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+/app/src/main/java/sexy/park9eon/rx/Config.java
